@@ -1,6 +1,6 @@
 # Personal Website
 
-Website ini dibuat guna memenuhi tugas Ujian Tengah Semester pada mata kuliah Pemrograman Web
+Website ini dibuat guna memenuhi tugas Ujian Tengah Semester pada mata kuliah Perancangan dan Pemrograman Web
 
 ## Tech Stack
 
